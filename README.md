@@ -46,7 +46,7 @@ This fee remains in the pool, increasing LP value.
 ### Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/basasindhu04/dex-amm
 cd dex-amm
 docker-compose up -d
 docker-compose exec app npm run compile
